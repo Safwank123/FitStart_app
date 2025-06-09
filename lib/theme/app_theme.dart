@@ -17,5 +17,6 @@ class AppTheme {
       border: OutlineInputBorder(),
       hintStyle: TextStyle(color: Colors.white54),
     ),
+    fontFamily: 'Poppins',
   );
 }
